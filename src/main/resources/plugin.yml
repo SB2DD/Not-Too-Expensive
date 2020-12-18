@@ -1,0 +1,15 @@
+name: Not-Too-Expensive
+version: 1.0
+main: me.mr_redstone5230.nottooexpensive.NotTooExpensive
+api-version: 1.16
+authors: [ Mr_redstone5230 ]
+
+commands:
+  not-too-expensive:
+    description: Not too expensive command
+    usage: /not-too-expensive [reload]
+
+permissions:
+  not-too-expensive.reload:
+    description: Allows /not-too-expensive reload
+    default: op

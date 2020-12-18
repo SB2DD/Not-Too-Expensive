@@ -1,0 +1,81 @@
+# The cost of xp levels for repairing a item
+cost: 10
+
+# The message to send to the player
+message:
+  enabled: true
+  text: '&cThe item in your inventory now will have an repair cost of %cost% levels'
+
+# Include here the items that are repairable
+items:
+  - 'WOODEN_SWORD'
+  - 'WOODEN_SHOVEL'
+  - 'WOODEN_HOE'
+  - 'WOODEN_AXE'
+  - 'WOODEN_PICKAXE'
+
+  - 'STONE_SWORD'
+  - 'STONE_SHOVEL'
+  - 'STONE_HOE'
+  - 'STONE_AXE'
+  - 'STONE_PICKAXE'
+
+  - 'CHAINMAIL_BOOTS'
+  - 'CHAINMAIL_CHESTPLATE'
+  - 'CHAINMAIL_HELMET'
+  - 'CHAINMAIL_LEGGINGS'
+
+  - 'LEATHER_BOOTS'
+  - 'LEATHER_CHESTPLATE'
+  - 'LEATHER_HELMET'
+  - 'LEATHER_LEGGINGS'
+
+  - 'IRON_SWORD'
+  - 'IRON_HELMET'
+  - 'IRON_CHESTPLATE'
+  - 'IRON_LEGGINGS'
+  - 'IRON_BOOTS'
+  - 'IRON_SHOVEL'
+  - 'IRON_HOE'
+  - 'IRON_AXE'
+  - 'IRON_PICKAXE'
+
+  - 'GOLD_SWORD'
+  - 'GOLD_HELMET'
+  - 'GOLD_CHESTPLATE'
+  - 'GOLD_LEGGINGS'
+  - 'GOLD_BOOTS'
+  - 'GOLD_SHOVEL'
+  - 'GOLD_HOE'
+  - 'GOLD_AXE'
+  - 'GOLD_PICKAXE'
+
+  - 'DIAMOND_SWORD'
+  - 'DIAMOND_HELMET'
+  - 'DIAMOND_CHESTPLATE'
+  - 'DIAMOND_LEGGINGS'
+  - 'DIAMOND_BOOTS'
+  - 'DIAMOND_SHOVEL'
+  - 'DIAMOND_HOE'
+  - 'DIAMOND_AXE'
+  - 'DIAMOND_PICKAXE'
+
+  - 'NETHERITE_SWORD'
+  - 'NETHERITE_HELMET'
+  - 'NETHERITE_CHESTPLATE'
+  - 'NETHERITE_LEGGINGS'
+  - 'NETHERITE_BOOTS'
+  - 'NETHERITE_SHOVEL'
+  - 'NETHERITE_HOE'
+  - 'NETHERITE_AXE'
+  - 'NETHERITE_PICKAXE'
+
+  - 'SHIELD'
+  - 'ELYTRA'
+  - 'CARROT_STICK'
+  - 'FLINT_AND_STEEL'
+  - 'FISHING_ROD'
+  - 'SHEARS'
+  - 'BOW'
+  - 'ENCHANTED_BOOK'
+  - 'CROSSBOW'
