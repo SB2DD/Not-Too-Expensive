@@ -58,7 +58,6 @@ public class NotTooExpensive extends JavaPlugin implements Listener, CommandExec
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
         if (args == null || args.length == 0) {
-            sender.sendMessage(ChatColor.GREEN + "Not too expensive.\nPlugin made by Mr_redstone5230");
             sender.sendMessage(ChatColor.GOLD + "Usage: /not-too-expensive [reload]");
             return true;
         }

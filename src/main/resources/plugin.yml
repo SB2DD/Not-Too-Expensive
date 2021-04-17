@@ -1,8 +1,8 @@
 name: Not-Too-Expensive
-version: 1.0
+version: 1.1
 main: me.mr_redstone5230.nottooexpensive.NotTooExpensive
 api-version: 1.16
-authors: [ Mr_redstone5230 ]
+authors: [ Mr_redstone5230, Jamezrin]
 
 commands:
   not-too-expensive:
